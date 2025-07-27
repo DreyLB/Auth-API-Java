@@ -77,11 +77,23 @@ A API pode ser testada facilmente utilizando ferramentas como **Postman** ou **I
 
 ---
 
-<!--
+
 ## 🚀 Como Executar
 
-Instruções futuras aqui...
--->
+### Pré-requisitos
+
+- Java 24
+- Maven
+- Docker e Docker Compose
+
+### 1. Suba o banco de dados
+
+Execute o seguinte comando na raiz do projeto:
+
+```bash
+docker compose up -d
+
+
 
 <!--
 ## 🔐 Variáveis de Ambiente
