@@ -90,20 +90,7 @@ A API pode ser testada facilmente utilizando ferramentas como **Postman** ou **I
 
 Execute o seguinte comando na raiz do projeto:
 
-```bash
 docker compose up -d
-
-
-
-<!--
-## 🔐 Variáveis de Ambiente
-
-Em breve...
--->
-
-## 📝 Licença
-
-Este projeto está licenciado sob a licença **MIT**. Sinta-se livre para usar e modificar.
 
 ---
 
